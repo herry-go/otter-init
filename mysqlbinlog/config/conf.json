@@ -1,0 +1,19 @@
+{
+  "auth": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "123456"
+  },
+  "sync_type": 2,
+  "position": {
+    "start": {
+      "file_name": "mysql-bin.000003",
+      "pos": 0
+    },
+    "end": {
+      "file_name": "mysql-bin.000004",
+      "pos": 17467
+    }
+  }
+}
