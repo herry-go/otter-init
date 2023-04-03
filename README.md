@@ -1,4 +1,4 @@
-# otter配置
+# otter初始化工具
 
 ## 1.修改otter_conf配置
 ```
