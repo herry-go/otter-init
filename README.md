@@ -1,4 +1,4 @@
-# otter异地多活配置
+# otter配置
 
 ## 1.修改otter_conf配置
 ```
